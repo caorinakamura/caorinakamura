@@ -3,8 +3,10 @@
 💻 Python、pandas、Streamlitを勉強中
 
 📊 化学物質毒性評価アプリを自作しました
+https://github.com/caorinakamura/toxicity-app
 
 🏭 食品工場の教育Q&Aアプリ開発をしました
+https://github.com/caorinakamura/foodfactory-qa-bot
 
 🧠 情報セキュリティマネジメント試験に合格
 
