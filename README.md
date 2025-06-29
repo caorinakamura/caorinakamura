@@ -1,7 +1,8 @@
 ## こんにちは 👋　
 
-💻 Python、pandas、Streamlitを勉強中
 pythonでアプリを作成中です。
+💻 Python、pandas、Streamlitを勉強中
+
 
 📊 化学物質毒性評価アプリを自作しました
 https://github.com/caorinakamura/toxicity-app
